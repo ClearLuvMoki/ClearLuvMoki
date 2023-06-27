@@ -15,7 +15,6 @@
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ClearLuvMoki&show_icons=trueline_height=21&theme=onedark"/>
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClearLuvMoki&hide_border=true&layout=compact"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ClearLuvMoki&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/>
 
 [![Github](https://raw.githubusercontent.com/ClearLuvMoki/main/assets/github-contribution-grid-snake.svg)]            
 
