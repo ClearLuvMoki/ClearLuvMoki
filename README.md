@@ -1,6 +1,6 @@
 # Weclome to 1921`
 
-> 🎇有空不如来西湖边吹吹晚风吧
+> 🎇有空不如来西湖边吹吹晚风吧~
 
 ## 😎 I'm Moki
 + <a href="http://www.clearluv.com" target="_blank">🚀 博客</a>;
