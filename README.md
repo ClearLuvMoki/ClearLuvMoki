@@ -16,8 +16,7 @@
 ![Electron Badge](https://img.shields.io/badge/Electron-8FD3E0?logo=electron&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![Webpack Badge](https://img.shields.io/badge/Webpack-646CFF?logo=webpack&logoColor=fff&style=flat)
-
-![Github](https://raw.githubusercontent.com/ClearLuvMoki/ClearLuvMoki/output/github-contribution-grid-snake.svg)           
+      
 <br/>
 
 <div style="margin-bottom: 10px;">
