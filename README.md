@@ -4,7 +4,7 @@
 
 ## 😎 I'm Moki
 + <a href="http://www.moonquakes.online" target="_blank">🚀 博客</a>;
-+ 😶‍🌫️ 我知道我写不出'云想衣裳花想容';
+  
 
 
 ## 🛠️ Tech Stack
